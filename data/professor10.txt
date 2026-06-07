@@ -1,0 +1,4 @@
+Professor Name: Dr. Anderson
+Course: Machine Learning
+
+Students frequently mention the professor's excellent office hours. Questions are answered thoroughly, and additional examples are provided. Projects are practical and relevant to industry applications. Exams are fair and focus on understanding rather than memorization.

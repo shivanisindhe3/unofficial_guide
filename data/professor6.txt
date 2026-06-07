@@ -1,0 +1,4 @@
+Professor Name: Dr. Miller
+Course: Operating Systems
+
+Students describe this as one of the most demanding courses in the department. Weekly assignments, quizzes, and projects create a heavy workload. Exams are difficult and require deep understanding of course material. Students often spend many hours each week on coursework.

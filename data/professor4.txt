@@ -1,0 +1,4 @@
+Professor Name: Dr. Brown
+Course: Database Systems
+
+Students report strict grading policies. Small mistakes often result in significant point deductions. Exams require detailed understanding of database concepts. Attendance is optional, but lecture notes are essential for success. Many students find the course challenging but rewarding.

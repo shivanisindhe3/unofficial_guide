@@ -1,0 +1,4 @@
+Professor Name: Dr. Johnson
+Course: Algorithms
+
+Students describe this course as project-heavy. Large programming assignments make up a significant portion of the grade. Exams are challenging but fair. Students who start projects early tend to perform well. The workload is considered above average, but many students say they learn a lot from the hands-on assignments.
